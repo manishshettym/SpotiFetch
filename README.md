@@ -1,6 +1,8 @@
 # SpotiFetch
 Download any users Spotify playlist to local Music folder as mp3 ( NO PREMIUM required )
 
+![Demo](https://github.com/ManishShettyM/SpotiFetch/blob/master/working.webm)
+
 ## Description
 It is a command line tool that can be used to download mp3 versions of spotify playlists.
 
